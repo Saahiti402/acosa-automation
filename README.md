@@ -1,4 +1,4 @@
-#  ACOSA --- AI-Powered Company Operating System Automator
+#  ACOSA - AI-Powered Company Operating System Automator
 
 ### *Slack → AI → Notion (In Progress) \| Internal Automation System*
 
