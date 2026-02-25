@@ -68,7 +68,7 @@ The system is structured to scale:
 
 ------------------------------------------------------------------------
 
-## 🛠 Tech Stack
+## Tech Stack
 
 -   Python 3.10+\
 -   Flask (webhook listener)\
@@ -79,7 +79,7 @@ The system is structured to scale:
 
 ------------------------------------------------------------------------
 
-## 📁 Project Structure
+##  Project Structure
 
     acosa-automation/
     │
