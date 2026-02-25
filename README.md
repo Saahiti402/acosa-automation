@@ -1,4 +1,4 @@
-# 🚀 ACOSA --- AI-Powered Company Operating System Automator
+#  ACOSA --- AI-Powered Company Operating System Automator
 
 ### *Slack → AI → Notion (In Progress) \| Internal Automation System*
 
@@ -13,16 +13,16 @@ for clarity, transparency, and async collaboration.
 
 ------------------------------------------------------------------------
 
-## 🔥 Features Completed So Far
+##  Features Completed So Far
 
-### ✅ Slack → Flask Webhook Listener
+###  Slack → Flask Webhook Listener
 
 -   Real-time Slack Events API integration\
 -   Ngrok tunneling for secure external webhook communication\
 -   Processes human messages and extracts user, text, and channel
     metadata
 
-### ✅ AI Message Analysis Engine
+###  AI Message Analysis Engine
 
 Offline (no-API) rule-based engine that provides structured analysis: -
 Summary generation\
@@ -33,7 +33,7 @@ Summary generation\
 
 LLM-ready: Easily switch to GPT/OpenAI when API credits are available.
 
-### ✅ Modular Automation Architecture
+###  Modular Automation Architecture
 
 The system is structured to scale:
 
@@ -45,7 +45,7 @@ The system is structured to scale:
 
 ------------------------------------------------------------------------
 
-## 🧠 System Architecture Diagram
+##  System Architecture Diagram
 
     Slack Message
           ↓
@@ -91,30 +91,30 @@ The system is structured to scale:
 
 ------------------------------------------------------------------------
 
-## 🚧 Roadmap
+##  Roadmap
 
-### 🔜 Notion Decision Log Sync
+###  Notion Decision Log Sync
 
 Automatically push structured updates into a Notion database.
 
-### 🔜 Linear Task Auto-Creation
+###  Linear Task Auto-Creation
 
 Convert Slack updates into structured Linear tasks.
 
-### 🔜 Weekly AI Digest
+###  Weekly AI Digest
 
 Generate weekly summary of: - Decisions\
 - Pending tasks\
 - Ownership\
 - Team progress
 
-### 🔜 Access Provisioning Automation
+###  Access Provisioning Automation
 
 Future plan: automate workspace permission flows.
 
 ------------------------------------------------------------------------
 
-## 🚀 Setup & Run
+## Setup & Run
 
 ### 1. Install dependencies
 
@@ -151,9 +151,3 @@ Enable event:
     message.channels
 
 ------------------------------------------------------------------------
-
-## 👤 Author
-
-**Saahiti K S**\
-DevOps & Automation Engineer\
-Focus Areas: Internal Tools, Workflow Automation, Cloud DevOps
